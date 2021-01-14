@@ -28,7 +28,7 @@ The textual one is something like that:
 
 ---
 
-But (bigger) spiral converted to an image generates this great effect! 
+Bigger spiral converted to an image generates this great effect! 
 
 ![Algo Spiral](spirale.png)
 
