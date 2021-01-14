@@ -1,6 +1,6 @@
 # JavaSpiral
 
-What's the visual representation of a matrix spiral? 
+What's the visual representation of a matrix spiral algorithm? 
 
 The textual one is something like that:
 
