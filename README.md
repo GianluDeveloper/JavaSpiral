@@ -2,7 +2,7 @@
 
 What's the visual representation of a matrix spiral? 
 
-The textual is something like that
+The textual one is something like that:
 
 ```
 1	2	3	4	5	6	7	8	9	10	
@@ -26,7 +26,9 @@ The textual is something like that
 28	27	26	25	24	23	22	21	20	19
 ```
 
-But (bigger) spiral converted to an image generate this great effect! 
+---
+
+But (bigger) spiral converted to an image generates this great effect! 
 
 ![Algo Spiral](spirale.png)
 
